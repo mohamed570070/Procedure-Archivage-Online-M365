@@ -108,6 +108,4 @@ votre-repo/
     └── stats-utilisation-archive.png
 ```
 
-**Auteur** : [Votre nom]  
-**Date de création** : [Date]  
-**Version** : 1.0
+
